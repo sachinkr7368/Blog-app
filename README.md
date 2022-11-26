@@ -1,4 +1,4 @@
-# Xhipment Assignment using firebase
+# Blog App
 
-### firebase database storage limit exceeds for now
-### This domain is not registered with firebase please run it on localhost
+### User can register using google authentication
+### Create and post a blog and only that user will be able to delete that 
